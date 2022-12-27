@@ -1,10 +1,8 @@
-# Object-Oriented Programming Challenge: Team Profile Generator
+# Express.js Challenge: Note Taker
 
 ## Description
 
-A command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
-
-### Walkthrough video: https://drive.google.com/file/d/1__d4FdLd2jmNIso6NGMJeyJ2nD5WJXpd/view?usp=sharing
+An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 ## Table of Contents
 
@@ -36,9 +34,11 @@ N/A
 - Answer the questions when prompted.
 - A team.html file will be generated in the demo directory.
 
-## Credits
+## Credits (for note taker)
 
-N/A
+- Xandromus Xander Rapstine
+- nol166 John McCambridge
+- Georgeyoo George
 
 ## License
 
