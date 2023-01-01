@@ -2,7 +2,7 @@
 
 ## Description
 
-An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+An application that writes and saves notes. This application uses an Express.js back end and can save, retrieve and delete note data from a JSON file.
 
 ## Table of Contents
 
@@ -15,26 +15,29 @@ An application called Note Taker that can be used to write and save notes. This 
 
 ## Installation
 
-Ensure that you have Node.js and npm installed. Download the "Develop" folder in this repository.
+N/A
 
 ## Screenshots
 
 The following image shows the application's appearance and functionality:
 
-![Alt text](/images/screenshot.png)
+![Alt text](/images/1.png)
+![Alt text](/images/2.png)
+![Alt text](/images/3.png)
 
 ## Deployed Application
 
-N/A
+https://note-taker-jve01jan2023.herokuapp.com
 
 ## Usage
 
-- Open the terminal and cd into the directory that contains index.js and the utils directory.
-- Enter "node index" into the terminal.
-- Answer the questions when prompted.
-- A team.html file will be generated in the demo directory.
+- Click on the "Get Started" button.
+- Click on "Note Title" and enter a title for your note.
+- Click on "Note Text" and enter details for your note.
+- Click on the save icon to save the note.
+- Click on the trash icon to delet a note.
 
-## Credits (for note taker)
+## Credits
 
 - Xandromus Xander Rapstine
 - nol166 John McCambridge
